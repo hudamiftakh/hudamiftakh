@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋 I am Huda
+An experienced FullStack based in Surabaya. I've work on various programming language from PHP, ReactJS, Codeigniter and now i work at Bappedalitbang Kota Surabaya
 
 <!--
 **hudamiftakh/hudamiftakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
